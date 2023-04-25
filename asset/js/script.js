@@ -10,7 +10,6 @@ var numeroUno = parseInt(prompt("ingrese un numero"))
 var numeroDos = parseInt(prompt('ingrese otro numero'))
 var arregloNumeros = [numeroUno, numeroDos]
 return arregloNumeros;
-    
 }
 
 function sumar(arregloNumeros) {
